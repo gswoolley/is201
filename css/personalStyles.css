@@ -1,0 +1,67 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://i.kinja-img.com/image/upload/c_fill,h_900,q_60,w_1600/yvmqbhff3ptvxh0irtnh.jpg://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eltonjohn.com%2Felton-john&psig=AOvVaw08Urid_qoNMdlRaxNsYEBF&ust=1712859228751000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCY2YCguIUDFQAAAAAdAAAAABAJ");
+  font-family: Arial, sans-serif;
+  font: black;
+}
+.tableauPlaceholder {
+  position: relative;
+  width: 1000px;
+  /* Set to the width of your visualization */
+  height: 600px;
+  /* Set to the height of your visualization */
+}
+iframe {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+#container {
+  background-color: whwhite;
+  border: 3px solid green;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 200px;
+  background-color: white;
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+  margin-top: 1100px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  float: left;
+}
+li a {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+h2 {
+  display: flex;
+  justify-content: center;
+}
+p {
+  display: flex;
+  justify-content: center;
+}
